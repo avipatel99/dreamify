@@ -1,0 +1,41 @@
+{
+  "name": "BOOTSTRAP-BLOG",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon .",
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "alert-node": "^1.2.3",
+    "body-parser": "^1.18.3",
+    "consolidate": "^0.15.1",
+    "express": "^4.16.4",
+    "express-generator": "^4.16.0",
+    "express-session": "^1.15.6",
+    "express-validator": "^5.3.1",
+    "file-system": "^2.2.2",
+    "hbs": "^4.0.1",
+    "js-alert": "^1.0.4",
+    "model": "^6.0.1",
+    "parse": "^2.1.0",
+    "parseurl": "^1.3.2",
+    "path": "^0.12.7",
+    "pg": "^7.7.1",
+    "popups": "^1.1.3",
+    "react-test-renderer": "^16.7.0",
+    "sequelize": "^4.42.0",
+    "swig": "^1.4.2",
+    "taffy": "^2.6.2"
+  },
+  "devDependencies": {
+    "jest": "^24.0.0",
+    "nodemon": "^1.18.4",
+    "standard": "^12.0.1",
+    "supertest": "^3.4.2"
+  }
+}

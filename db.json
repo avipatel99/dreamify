@@ -1,0 +1,75 @@
+{
+  "users": [
+    {
+      "username": "doctorwhocomposer",
+      "forename": "Delia",
+      "surname": "Derbyshire",
+      "password": "dalek"
+    },
+    {
+      "username": "JD",
+      "forename": "John",
+      "surname": "Doe",
+      "password": "yeet"
+    },
+    {
+      "username": "AP",
+      "forename": "Avi",
+      "surname": "Patel",
+      "password": "cheese"
+    }
+  ],
+  "dreams": [
+    {
+      "title": "test1",
+      "dreamContent": "testteasafsaf",
+      "username": "AP",
+      "date": "21/09/1999"
+    },
+    {
+      "title": "John's Dream",
+      "dreamContent": "EEEEAAAGLLLE",
+      "username": "JD"
+    },
+    {
+      "title": "John's Second Dream",
+      "dreamContent": "This is my second dream.",
+      "username": "JD"
+    },
+    {
+      "title": "Johns Third Dream",
+      "dreamContent": "You guessed it. My Third dream.",
+      "username": "JD"
+    },
+    {
+      "title": "Nightmare at ASDA",
+      "dreamContent": "I had a nightmare that a Polar Bear was chasing me around the ASDA carpark!!",
+      "username": "AP",
+      "date": "05/11/2014"
+    },
+    {
+      "title": "The Power Of Now",
+      "dreamContent": "I dreamt I was enlightened.",
+      "username": "AP",
+      "date": "01/23/2019"
+    },
+    {
+      "title": "Scrubs",
+      "dreamContent": "Chocolate Bears",
+      "username": "JD",
+      "date": "25/01/2019"
+    },
+    {
+      "title": "The Doctor",
+      "dreamContent": "I was with the tenth doctor (David Tennent) and Martha. We were battling random Daleks and Cybermen. (They had teamed up) And then I woke up after destroying the twentieth Dalek. Not very much but whatever. ",
+      "username": "doctorwhocomposer",
+      "date": "26/01/2019"
+    },
+    {
+      "title": "asfa",
+      "dreamContent": "asfasdfas",
+      "username": "AP",
+      "date": "28/01/2019"
+    }
+  ]
+}
