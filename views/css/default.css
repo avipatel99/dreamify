@@ -1,0 +1,24 @@
+.img-circle{
+    border-radius: 50%;
+}
+
+.container{
+    padding-top: 50px;
+    max-width: 1000px;
+}
+
+.profile{
+    margin-right: 40px;
+}
+
+.profile aside p{
+    font-size: 12px;
+}
+
+.navbar-brand{
+    pointer-events: none;
+}
+
+
+
+

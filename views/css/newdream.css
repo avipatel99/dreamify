@@ -1,0 +1,65 @@
+html, body{
+	height: 100%;
+}
+
+.log {
+    display: table;
+    max-width: 400px;
+    height: 50%;
+    min-height: 50%;
+    padding-left: 165px;
+    padding-top: 2%;
+}
+
+.txtArea {
+    display: table;
+    max-width: 800px;
+    height: 50%;
+    min-height: 50%;
+    padding-left: 165px;
+    padding-right: 5px;
+    padding-top: 2%;
+    padding-top: 0px;
+}
+.submitClass {
+    display: table;
+    max-width: 800px;
+    height: 50%;
+    min-height: 50%;
+    padding-left: 165px;
+    padding-right: 5px;
+    padding-top: 2%;
+    padding-top: 0px;
+    padding-bottom: 5px;
+}
+
+.form-newdream{
+	display: table-cell;
+    vertical-align: middle;
+    padding-left: 20%;
+}
+
+.box{
+    border: 1px red dotted;
+}
+
+/*.image-aboutus-banner {
+background: linear-gradient(rgba(0,0,0,.7), rgba(0,0,0,.7)), url("https://mymodernmet.com/wp/wp-content/uploads/2016/12/Nicholas-Steinburg-Fog-Photography-thumb.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center center;
+color: #fff;
+padding-top: 100px;
+padding-bottom:110px;
+height: 43%;
+ }*/
+
+ .image-aboutus-banner {
+background: linear-gradient(rgba(0,0,0,.7), rgba(0,0,0,.7)), url("https://www.pure-ocean.org/wp-content/uploads/2017/09/ocean-image-1030x687.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center center;
+color: #fff;
+padding-top: 100px;
+padding-bottom:110px;
+ }

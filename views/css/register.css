@@ -1,0 +1,38 @@
+.navbar-brand{
+    pointer-events: none;
+}
+
+html, body{
+    height: 100%;
+}
+
+.log {
+    display: table;
+    max-width: 400px;
+    height: 50%;
+    min-height: 50%;
+}
+
+.form-logreg{
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.box{
+    border: 1px red dotted;
+}
+
+.navbar-brand{
+    pointer-events: none;
+}
+
+   .image-aboutus-banner {
+    background: linear-gradient(rgba(0,0,0,.7), rgba(0,0,0,.7)), url("https://static.boredpanda.com/blog/wp-content/uploads/2016/12/Fog-Waves-of-MtTamalpais-583fd1d0efe0f__880.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    color: #fff;
+    padding-top: 100px;
+    padding-bottom:110px;
+    height: 43%;
+ }

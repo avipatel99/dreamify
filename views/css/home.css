@@ -1,0 +1,22 @@
+.row header h2{
+	margin-bottom: 0px;
+}
+
+.row footer{
+	margin-bottom: 10px;
+	color: #000;
+}
+
+.lead{
+	margin-bottom: 10px;
+}
+
+.image-aboutus-banner {
+background: linear-gradient(rgba(0,0,0,.7), rgba(0,0,0,.7)), url("https://rebeccameyer1.files.wordpress.com/2015/03/dreams-3.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center center;
+color: #fff;
+padding-top: 100px;
+padding-bottom:110px;
+ }
