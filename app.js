@@ -31,7 +31,7 @@
 	app.use(session({
 		secret: 'concertina',
 		resave: false,
-		saveUnitialized: true
+		saveUninitialized: true
 	}));
 
 	app.get('/', function(req, res){
